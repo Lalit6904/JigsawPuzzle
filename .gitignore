@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+tools/out/
+tools/__pycache__/
